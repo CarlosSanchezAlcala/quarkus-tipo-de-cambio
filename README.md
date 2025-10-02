@@ -16,4 +16,4 @@ Para inicializar el proyecto, por favor de ejecutar el siguiente comando:
 mvn quarkus:dev
 ```
 
-> **_NOTE:_**  Puedes probar el proyecto con el siguiente URL en Postman:<http://localhost:8080/tipo-cambio?dni=34254678>.
+> **_NOTE:_**  Puedes probar el proyecto con el siguiente URL en Postman: <http://localhost:8080/tipo-cambio?dni=34254678>.
